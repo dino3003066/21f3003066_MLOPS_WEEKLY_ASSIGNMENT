@@ -1,0 +1,8 @@
+{
+  "run_ts": "20261011T143224Z",
+  "data_version": "v1",
+  "max_depth": 3,
+  "n_train": 120,
+  "n_eval": 30,
+  "eval_accuracy": 0.9666666666666667
+}
