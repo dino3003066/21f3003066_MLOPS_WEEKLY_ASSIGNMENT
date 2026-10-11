@@ -1,4 +1,0 @@
-2026-10-11 14:32:38,527 INFO Run 20261011T143238Z | reading gs://mlops_w1_21f3003066_data_bucket/data/v1
-2026-10-11 14:32:40,388 INFO train=120 rows, eval=30 rows
-2026-10-11 14:32:40,429 INFO Eval accuracy: 0.9667
-2026-10-11 14:32:42,149 INFO Artifacts written to gs://mlops_w1_21f3003066_artifacts/runs/20261011T143238Z/
